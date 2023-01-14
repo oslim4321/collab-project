@@ -1,0 +1,11 @@
+@media (max-width: 1035px) {
+  .homeDisp {
+    display: none;
+  }
+  .home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+}
